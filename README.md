@@ -1,7 +1,7 @@
 🎓 Student Management System (Java + MySQL)
 
 A simple Java Swing and MySQL based application to manage student records — including features for searching, deleting, and displaying student data.
-Built as a mini DBMS project to demonstrate JDBC connectivity and GUI integration in Java.
+Built as a mini PBLJ project to demonstrate JDBC connectivity and GUI integration in Java.
 
 🧩 Features
 
